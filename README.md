@@ -1,1 +1,1 @@
-# 16S-metagenomics-mothur
+# 16S Mothur Metagenomics pipeline
